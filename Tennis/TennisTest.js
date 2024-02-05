@@ -1,7 +1,7 @@
 // import { TennisGameOrigin } from './TennisGame_origin.js';
 // import { TennisGame1 } from './TennisGame_comment.js';
 // import { TennisGame } from './TennisGame_refactoring1.js';
-import { TennisGame } from './TennisGame_refactoring2.js';
+import { TennisGame } from './TennisGame3_refactoring.js';
 
 var allScores = [
   [0, 0, 'Love-All'],
